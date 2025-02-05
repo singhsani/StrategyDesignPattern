@@ -1,3 +1,5 @@
+package withoutStrategy;
+
 public class SportyVehicle extends Vehicle{
     @Override
     public void drive(){
